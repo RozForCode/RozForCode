@@ -8,6 +8,6 @@
 👯 I’m looking to collaborate on open-source projects that challenge me and help me grow as a developer.
 🤔 I’m looking for help with exploring new technologies and best practices in software development, especially in the context of full-stack and game development.
 💬 Ask me about anything related to C++, Java, Python, or JavaScript, or my journey into the world of software development and tech.
-📫 How to reach me: You can reach me at my LinkedIn or via email at navrose.s.johal@example.com.
+📫 How to reach me: You can reach me at my LinkedIn or via email at navrosesinghjohal@gmail.com.
 😄 Pronouns: He/Him
 ⚡ Fun fact: I enjoy solving Minesweeper puzzles at the hard level and have a knack for learning new programming languages and frameworks!
