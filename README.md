@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navrose Singh Johal</h1>
 <h3 align="center">I'm a passionate software development student with a strong interest in exploring the intricacies of code, algorithms, and problem-solving.</h3>
-<iframe align="right" src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="400" height="400" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
+<img align="right" src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="400" height="400" frameBorder="0"></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
 
 - 🔭 I’m currently working on [working on honing my skills in C++, Java, Python, and JavaScript, with a keen interest in systems programming and software development.](https://github.com/RozForCode/myOS)
 
