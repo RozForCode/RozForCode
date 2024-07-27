@@ -1,5 +1,5 @@
-## Hi there 👋
-# Welcome to my GitHub profile! I'm Navrose Singh Johal, a passionate software developer with a strong interest in exploring the intricacies of code, algorithms, and problem-solving. Here's a bit about me:
+# Hi there 👋
+## Welcome to my GitHub profile! I'm Navrose Singh Johal, a passionate software developer with a strong interest in exploring the intricacies of code, algorithms, and problem-solving. Here's a bit about me:
 
 🔭 I’m currently working on honing my skills in C++, Java, Python, and JavaScript, with a keen interest in systems programming and software development.
 🌱 I’m currently learning React to expand my front-end development skills and exploring game development with a goal to publish a game on the Google Play Store.
