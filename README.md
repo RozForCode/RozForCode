@@ -7,11 +7,11 @@
 
 🎓 I have recently completed courses on C++ and the Standard Template Library (STL), enhancing my understanding of data structures and algorithms.
 
-🛠️ I'm experimenting with building an operating system in C++ to deepen my understanding of system-level programming and strengthen my resume.
+🛠️ I'm experimenting with building an operating system in C++ to deepen my understanding of system-level programming.
 
 👯 I’m looking to collaborate on open-source projects that challenge me and help me grow as a developer.
 
-🤔 I’m looking for help with exploring new technologies and best practices in software development, especially in the context of full-stack and game development.
+🤔 I’m exploring new technologies and best practices in software development, especially in the context of full-stack and game development.
 
 💬 Ask me about anything related to C++, Java, Python, or JavaScript, or my journey into the world of software development and tech.
 
