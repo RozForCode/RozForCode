@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on working on honing my skills [in C++, Java, Python, and JavaScript, with a keen interest in systems programming and software development.](https://github.com/RozForCode/myOS)
 
 
-- 🌱 I’m currently **Full Stack Projects** to expand web development skills and exploring game development with a goal to publish a game on the Google Play Store.
+- 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring game development with a goal to publish a game on the Google Play Store.
 
 - 👯 I’m looking to collaborate on **projects especially in hackathons**
 
