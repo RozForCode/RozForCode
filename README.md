@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring **game development** with a goal to publish a game on the Google Play Store.
 
-- 👯 I’m looking to collaborate on **projects especially in hackathons**
+- 👯 I’m open to collaborate on any type of **projects**, feel free to reach out if you have a idea.
 
 - 👨‍💻 All of my projects are available at [https://rozforcode.github.io/personal-portfolio/](https://rozforcode.github.io/personal-portfolio/)
 
