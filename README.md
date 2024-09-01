@@ -3,16 +3,16 @@
 
 <img align="right"  width="400" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
 
-- 🔭 I’m currently working on [working on honing my skills in C++, Java, Python, and JavaScript, with a keen interest in systems programming and software development.](https://github.com/RozForCode/myOS)
+- 🔭 I’m currently working on working on honing my skills [in C++, Java, Python, and JavaScript, with a keen interest in systems programming and software development.](https://github.com/RozForCode/myOS)
 
 
-- 🌱 I’m currently learning **learning React to expand my front-end development skills and exploring game development with a goal to publish a game on the Google Play Store.**
+- 🌱 I’m currently **Full Stack Projects** to expand web development skills and exploring game development with a goal to publish a game on the Google Play Store.
 
 - 👯 I’m looking to collaborate on **projects especially in hackathons**
 
 - 👨‍💻 All of my projects are available at [https://rozforcode.github.io/personal-portfolio/](https://rozforcode.github.io/personal-portfolio/)
 
-- 🎓 I have recently completed courses **on C++ and the Standard Template Library (STL), enhancing my understanding of data structures and algorithms.**
+- 🎓 I have recently completed courses on **C++ and the Standard Template Library (STL), enhancing my understanding of data structures and algorithms.**
 
 - 📫 How to reach me **You can reach me at my LinkedIn or via email at navrosesinghjohal@gmail.com.**
 
