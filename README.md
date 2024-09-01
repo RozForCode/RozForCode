@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navrose Singh Johal</h1>
-<h3 align="center">I'm a passionate software development student with a strong interest in exploring the intricacies of code, algorithms, and problem-solving.</h3>
+<h3 align="center">I enjoy solving problems be it DSA or development, anything difficult excites me.</h3>
 
 <img align="right"  width="400" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
 
-- 🔭 I’m currently working on working on honing my skills [in C++, Java, Python, and JavaScript, with a keen interest in systems programming and software development.](https://github.com/RozForCode/myOS)
+- 🔭 I’m currently working on working on honing my skills in C++, Java, Python, and JavaScript, with a keen interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
 
 
 - 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring **game development** with a goal to publish a game on the Google Play Store.
