@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are currently **not** available at [https://rozforcode.github.io/personal-portfolio/](https://rozforcode.github.io/personal-portfolio/)
 
-- 🎓 I have recently completed courses on **C++ and the Standard Template Library (STL), enhancing my understanding of data structures and algorithms.**
+- 🎓 I have completed courses on **C++ and the Standard Template Library (STL)**, and have since been applying these skills to solve data structure and algorithm challenges.
 
 - 📫 How to reach me **You can reach me at my LinkedIn or via email at navrosesinghjohal@gmail.com.**
 
