@@ -3,10 +3,10 @@
 
 <img align="right"  width="400" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
 
-- 🔭 I’m currently working on working on honing my skills in C++, Java, Python, ABAP, and JavaScript, with a keen interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
+- 🔭 I’m currently working on working on honing my skills in C++, Unreal Engine, Java, Python, ABAP, and JavaScript, with a keen interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
 
 
-- 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring **Game Development** with a goal to publish a game on the Google Play Store.
+- 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring **Game Development in Unreal Engine** with a goal to publish a game on the Google Play Store.
 
 - 👯 I’m open to collaborate on any type of **projects**, feel free to reach out if you have a idea.
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **You can reach me at my LinkedIn or via email at navrosesinghjohal@gmail.com.**
 
-- ⚡ Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles and DSA problems.**
+- ⚡ Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and working with Unreal Engine.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navrose-singh-johal-4839a5278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navrose-singh-johal-4839a5278/" height="30" width="40" /></a>
