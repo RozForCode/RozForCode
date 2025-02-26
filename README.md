@@ -10,7 +10,7 @@
 
 - 👯 I’m open to collaborate on any type of **projects**, feel free to reach out if you have a idea.
 
-- 👨‍💻 All of my projects are currently **not** available at [https://rozforcode.github.io/personal-portfolio/](https://rozforcode.github.io/personal-portfolio/)
+- 👨‍💻 <a href="www.navrose.co">Personal Portfolio</a>
 
 - 🎓 I have completed courses on **C++ and the Standard Template Library (STL)**, and have since been applying these skills to solve data structure and algorithm challenges.
 
