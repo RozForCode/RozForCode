@@ -10,7 +10,7 @@
 
 - 👯 I’m open to collaborate on any type of **projects**, feel free to reach out if you have a idea.
 
-- 👨‍💻 <a href="[www.navrose.co](https://navrose.co/)">Click</a> to see my Personal Portfolio
+- 👨‍💻 <a href="https://navrose.co/"> Click </a> to see my Personal Portfolio
 
 - 🎓 I have completed courses on **C++ and the Standard Template Library (STL)**, and have since been applying these skills to solve data structure and algorithm challenges.
 
