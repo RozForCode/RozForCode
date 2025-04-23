@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on working on honing my skills in C++, Unreal Engine, Java, Python, ABAP, and JavaScript, with a keen interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
 
 
-- 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring **Game Development in Unreal Engine** with a goal to publish a game on the Google Play Store.
+- 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring **Game Development in Unreal Engine**.
 
 - 👯 I’m open to collaborate on any type of **projects**, feel free to reach out if you have a idea.
 
@@ -17,6 +17,7 @@
 - 📫 How to reach me **You can reach me at my LinkedIn or via email at navrosesinghjohal@gmail.com.**
 
 - ⚡ Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and working with Unreal/Unity Engine.**
+- ![](https://komarev.com/ghpvc/?username=RozForCode)
   <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
