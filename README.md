@@ -17,6 +17,7 @@
 - 📫 How to reach me **You can reach me at my LinkedIn or via email at navrosesinghjohal@gmail.com.**
 
 - ⚡ Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and working with Unreal/Unity Engine.**
+  <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/navrose-singh-johal-4839a5278/" target="blank">
@@ -29,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin:20;" />
   </a>
 </p>
-
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -65,5 +66,5 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" alt="premierepro" width="40" height="40"/>
 </a>
 </p>
-
+<hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozforcode&" alt="rozforcode" /></p>
