@@ -36,8 +36,8 @@
 <a href="https://unity.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 </a>
-<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/D/davinci-resolve-logo-481AD6F6C3-seeklogo.com.png" alt="davinciresolve" width="40" height="40"/>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc.svg" alt="premierepro" width="40" height="40"/>
 </a>
 </p>
 
