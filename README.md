@@ -19,12 +19,14 @@
 - ⚡ Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and working with Unreal/Unity Engine.**
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/navrose-singh-johal-4839a5278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navrose-singh-johal-4839a5278/" height="30" width="40" /></a>
-    <a href="https://x.com/johal_navrose" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" height="30" width="40"  />
+<a href="https://linkedin.com/in/navrose-singh-johal-4839a5278/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navrose-singh-johal-4839a5278/" height="30" width="40" />
+</a>
+    <a href="https://x.com/johal_navrose" target="blank" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" height="30" width="40" style="margin:10;" />
   </a>
   <a href="https://www.instagram.com/navrose.johal/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"  />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin:10;" />
   </a>
 </p>
 
