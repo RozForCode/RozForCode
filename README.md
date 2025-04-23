@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navrose Singh Johal</h1>
 <h3 align="center">I enjoy solving problems be it DSA or development.</h3>
 
-<img align="right"  width="400" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
+<img align="right"  width="350" height="450" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
 
 - 🔭 I’m currently honing my skills in C++, Unreal/Unity, Java, Python, ABAP, and JavaScript, with interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
 
