@@ -20,6 +20,7 @@
 
 - Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and Clash Royale**
 <a id="readme-socials"></a>
+<br>
   <hr>
 <h2 align="center">Connect with me:</h3>
 <p align="center">
