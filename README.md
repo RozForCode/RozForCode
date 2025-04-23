@@ -3,7 +3,7 @@
 
 <img align="right"  width="400" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
 
-- 🔭 I’m currently working on working on honing my skills in C++, Unreal Engine, Java, Python, ABAP, and JavaScript, with a keen interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
+- 🔭 I’m currently working on honing my skills in C++, Unreal/Unity, Java, Python, ABAP, and JavaScript, with a keen interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
 
 
 - 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring **Game Development in Unreal Engine**.
@@ -17,7 +17,6 @@
 - 📫 How to reach me **You can reach me at my LinkedIn or via email at navrosesinghjohal@gmail.com.**
 
 - ⚡ Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and working with Unreal/Unity Engine.**
-- ![](https://komarev.com/ghpvc/?username=RozForCode)
   <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
