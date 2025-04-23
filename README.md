@@ -58,4 +58,4 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozforcode&" alt="rozforcode" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozforcode&" alt="rozforcode" /></p>
