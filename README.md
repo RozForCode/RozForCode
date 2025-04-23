@@ -3,7 +3,7 @@
 
 <img align="right"  width="400" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
 
-- 🔭 I’m currently working on honing my skills in C++, Unreal/Unity, Java, Python, ABAP, and JavaScript, with interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
+- 🔭 I’m currently honing my skills in C++, Unreal/Unity, Java, Python, ABAP, and JavaScript, with interest in [systems programming and software development.](https://github.com/RozForCode/myOS)
 
 
 - 🌱 I’m currently doing **Full Stack Projects** to expand web development skills and exploring **Game Development in Unreal Engine**.
