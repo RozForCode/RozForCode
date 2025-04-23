@@ -33,6 +33,7 @@
   <a href="https://www.instagram.com/navrose.johal/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin:20;" />
   </a>
+  ![](https://komarev.com/ghpvc/?username=RozForCode)
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
