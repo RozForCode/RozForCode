@@ -18,7 +18,10 @@
 
 - Reach me - via <a href="#readme-socials">Socials</a> or email navrosesinghjohal@gmail.com
 
-- Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and Clash Royale**
+    ---
+      >><ul>Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and Clash Royale**</ul>
+    ---
+
 <a id="readme-socials"></a>
 <br>
   <hr>
