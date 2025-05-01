@@ -9,7 +9,7 @@
 
 - I’m currently expanding my web development skills and exploring **Game Development in Unreal and Unity Engine**.
 
-- Check out my recent deployed game - [Play TakeOver](https://play.unity.com/en/games/6ab74d27-f7bb-4bc5-9db0-4aad155dc3e2/webgl-builds)
+- Check out my recent deployed game - [Play TakeOver](https://unity-games-embedded.vercel.app/)
 
 - 👯 I’m open to collaborate on any type of **projects**, feel free to reach out if you have a idea.
 
