@@ -17,7 +17,7 @@
 - I have completed courses on **C++ and the Standard Template Library (STL)**, and have since been applying these skills to solve data structure and algorithm challenges.
 
 - Reach me - via <a href="#readme-socials">Socials</a> or email navrosesinghjohal@gmail.com
-- 🔹Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and Clash Royale**
+- 🔹Fun fact **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and Clash of Clans (townhall 16 max)**
   
 
 <a id="readme-socials"></a>
