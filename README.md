@@ -85,8 +85,7 @@ const navrose = {
 <hr>
 
 
-
-![Metrics](https://metrics.lecoq.io/RozForCode?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America/Toronto)
+![Metrics](https://metrics.lecoq.io/RozForCode?template=classic&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&config.timezone=America%2FToronto)
 
 <img  align="center" width="450"
      src="https://streak-stats.demolab.com?user=RozForCode&theme=dark&hide_border=true" />
