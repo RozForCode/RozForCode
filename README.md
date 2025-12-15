@@ -83,7 +83,7 @@ const navrose = {
 </a>
 </p>
 <hr>
-![Metrics](https://metrics.lecoq.io/RozForCode?template=classic&lines=1&isocalendar=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=8&lines.delay=0&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/RozForCode?template=classic&people=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&discussions=false&discussions.categories=true&discussions.categories.limit=0&config.timezone=America%2FToronto)
 <hr>
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozforcode&" alt="rozforcode" /></p>
