@@ -1,23 +1,44 @@
 <h1 align="center">Hi, I'm Navrose</h1>
 <hr>
 <img align="right"  width="350" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
+const navrose = {
+  skills: [
+    { name: "C++", link: "https://github.com/RozForCode/cppJourney" },
+    { name: "Unreal", link: "https://github.com/RozForCode/Unreal-Notes" },
+    { name: "Unity", link: "https://github.com/RozForCode/UnityGamesEmbedded" },
+    { name: "SpringBoot", link: "https://github.com/RozForCode/SpringProjects" },
+    { name: "Automation", link: "https://github.com/RozForCode/Automation" },
+    { name: "ABAP", link: "https://github.com/RozForCode/ABAP" },
+    { name: "Linux", link: "https://github.com/RozForCode/Linux" },
+    { 
+      name: "Web Development", 
+      links: [
+        "https://github.com/RozForCode/blog-nextjs", 
+        "https://github.com/RozForCode/ReactFun", 
+        "https://github.com/RozForCode/Angular"
+      ] 
+    },
+    { name: "Powershell Scripting", link: "https://github.com/RozForCode/PowershellLearners" },
+    { name: "LLMs", link: "https://github.com/RozForCode/ChatBot_LangChain" },
+    { name: "Data Science", link: "https://github.com/RozForCode/ETL-Pipeline-Python" }
+  ],
+  focus: "Expanding web development skills and exploring Game Development in Unreal and Unity Engine",
+  projects: [
+    { name: "Play TakeOver", link: "https://unity-games-embedded.vercel.app/" }
+  ],
+  collaboration: "Open to collaborate on any type of projects, feel free to reach out if you have an idea",
+  portfolio: "https://navrose.co/",
+  courses: "Completed courses on C++ and the Standard Template Library (STL) and applying skills to DSA challenges",
+  contact: "Reach via Socials section or email navrosesinghjohal@gmail.com",
+  hobbies: [
+    "playing Genshin Impact", 
+    "PUBG", 
+    "solving Minesweeper puzzles", 
+    "DSA problems", 
+    "Clash of Clans (Townhall 16 max)"
+  ]
+};
 
-- I’m currently honing my skills in [C++](https://github.com/RozForCode/cppJourney), [Unreal](https://github.com/RozForCode/Unreal-Notes), [Unity](https://github.com/RozForCode/UnityGamesEmbedded), 
- [SpringBoot](https://github.com/RozForCode/SpringProjects), [Automation](https://github.com/RozForCode/Automation), [ABAP](https://github.com/RozForCode/ABAP), [Linux](https://github.com/RozForCode/Linux) and Web Development-([1](https://github.com/RozForCode/blog-nextjs), [2](https://github.com/RozForCode/ReactFun), [3](https://github.com/RozForCode/Angular)), [Powershell Scripting](https://github.com/RozForCode/PowershellLearners), [LLMs](https://github.com/RozForCode/ChatBot_LangChain), [Data Science](https://github.com/RozForCode/ETL-Pipeline-Python)
-
-
-- I’m currently expanding my web development skills and exploring **Game Development in Unreal and Unity Engine**.
-
-- Check out my recent deployed game - [Play TakeOver](https://unity-games-embedded.vercel.app/)
-
-- 👯 I’m open to collaborate on any type of **projects**, feel free to reach out if you have a idea.
-
-- <a href="https://navrose.co/" target="_blank" rel="noopener noreferrer">Click</a> to see my Personal Portfolio
-
-- I have completed courses on **C++ and the Standard Template Library (STL)**, and have since been applying these skills to solve data structure and algorithm challenges.
-
-- Reach me - via <a href="#readme-socials">Socials</a> or email navrosesinghjohal@gmail.com
-- **I enjoy playing genshin impact, pubg, solving Minesweeper puzzles, DSA problems and Clash of Clans (townhall 16 max)**
   
 
 <a id="readme-socials"></a>
