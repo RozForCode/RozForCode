@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Navrose</h1>
 <hr>
-<img align="right"  width="350" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
+
+<img align="right"  width="350" height="400" src="https://github.com/user-attachments/assets/b3cfd8ae-5ba7-4f52-9134-1429e600c0a8" frameBorder="0" >
+
+
+
+
 
 ``` javascript
 const navrose = {
