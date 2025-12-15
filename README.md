@@ -5,23 +5,23 @@
 ``` javascript
 const navrose = {
  programmingLanguages: [
-    "C++","C#","Java","Python","TypeScript","JavaScript","ABAP","Powershell","SQL","NoSQL","Bash/Shell"
-  ],,
-    { name: "Powershell Scripting", link: "https://github.com/RozForCode/PowershellLearners" },
-    { name: "LLMs", link: "https://github.com/RozForCode/ChatBot_LangChain" },
-    { name: "Data Science", link: "https://github.com/RozForCode/ETL-Pipeline-Python" }
+    "C","C++","C#","Java","Python","TypeScript","JavaScript","ABAP",
+    "Powershell","SQL","NoSQL","Bash/Shell"
   ],
-  focus: "Expanding web development skills and exploring Game Development in Unreal and Unity Engine",
-  projects: [
-    { name: "Play TakeOver", link: "https://unity-games-embedded.vercel.app/" }
+ Some Repos: [
+    {Powershell Scripting: "https://github.com/RozForCode/PowershellLearners"},
+    {LLMs:"https://github.com/RozForCode/ChatBot_LangChain"} ,
+    {Data Science: "https://github.com/RozForCode/ETL-Pipeline-Python"}
   ],
-  collaboration: "Open to collaborate on any type of projects, feel free to reach out if you have an idea",
+  focus: "App Development and Game Engineering skills, Linux, 3D Web Dev",
+  Deployed Projects: [
+    { Play TakeOver: "https://unity-games-embedded.vercel.app/" }
+  ],
+  collaboration: "Feel free to reach out if you have an idea",
   portfolio: "https://navrose.co/",
-  courses: "Completed courses on C++ and the Standard Template Library (STL) and applying skills to DSA challenges",
   contact: "Reach via Socials section or email navrosesinghjohal@gmail.com",
   hobbies: [
-    "playing Genshin Impact", 
-    "PUBG", 
+    "Sketching",
     "solving Minesweeper puzzles", 
     "DSA problems", 
     "Clash of Clans (Townhall 16 max)"
