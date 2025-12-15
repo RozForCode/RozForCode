@@ -35,7 +35,23 @@ const navrose = {
 <br>
   <hr>
   
-<p align="center">Connect with me:</p> <a href="https://linkedin.com/in/navrose-singh-johal-4839a5278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navrose-singh-johal-4839a5278/" height="30" width="40" /><a href="https://www.instagram.com/as.within_so.without/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin:20;" /></a>
+<hr>
+
+<p align="center">
+  <strong>Connect with me:</strong>
+  &nbsp;
+  <a href="https://linkedin.com/in/navrose-singh-johal-4839a5278/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/as.within_so.without/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram" width="30" height="30" />
+  </a>
+</p>
+
+<hr>
 
 <hr>
 <h3 align="center">Languages and Tools:</h3>
