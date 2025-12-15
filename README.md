@@ -88,6 +88,6 @@ const navrose = {
 
 <hr>
 
-<hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozforcode&" alt="rozforcode" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=RozForCode&theme=dark&hide_border=true)
+
 <hr>
