@@ -46,6 +46,8 @@ const navrose = {
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
+
+<img align="right"  width="350" height="400" src="https://github.com/user-attachments/assets/0b5c0a77-b9e4-47a0-98fa-56a75a76bc49" frameBorder="0" >
 <p align="center" style="color:red;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
