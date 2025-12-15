@@ -84,11 +84,13 @@ const navrose = {
 </p>
 <hr>
 
-<img align="right" width="350"
-     src="https://streak-stats.demolab.com?user=RozForCode&theme=dark&hide_border=true" />
+
 
 ![Metrics](https://metrics.lecoq.io/RozForCode?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America/Toronto)
 
-<br clear="right"/>
+<img  align="center" width="450"
+     src="https://streak-stats.demolab.com?user=RozForCode&theme=dark&hide_border=true" />
+     
+
 
 <hr>
