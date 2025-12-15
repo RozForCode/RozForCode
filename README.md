@@ -4,22 +4,9 @@
 
 ``` javascript
 const navrose = {
-  skills: [
-    { name: "C++", link: "https://github.com/RozForCode/cppJourney" },
-    { name: "Unreal", link: "https://github.com/RozForCode/Unreal-Notes" },
-    { name: "Unity", link: "https://github.com/RozForCode/UnityGamesEmbedded" },
-    { name: "SpringBoot", link: "https://github.com/RozForCode/SpringProjects" },
-    { name: "Automation", link: "https://github.com/RozForCode/Automation" },
-    { name: "ABAP", link: "https://github.com/RozForCode/ABAP" },
-    { name: "Linux", link: "https://github.com/RozForCode/Linux" },
-    { 
-      name: "Web Development", 
-      links: [
-        "https://github.com/RozForCode/blog-nextjs", 
-        "https://github.com/RozForCode/ReactFun", 
-        "https://github.com/RozForCode/Angular"
-      ] 
-    },
+ programmingLanguages: [
+    "C++","C#","Java","Python","TypeScript","JavaScript","ABAP","Powershell","SQL","NoSQL","Bash/Shell"
+  ],,
     { name: "Powershell Scripting", link: "https://github.com/RozForCode/PowershellLearners" },
     { name: "LLMs", link: "https://github.com/RozForCode/ChatBot_LangChain" },
     { name: "Data Science", link: "https://github.com/RozForCode/ETL-Pipeline-Python" }
