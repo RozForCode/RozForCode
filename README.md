@@ -10,21 +10,21 @@ const navrose = {
   ],
  Some Repos: [
     {Powershell Scripting: "https://github.com/RozForCode/PowershellLearners"},
-    {LLMs:"https://github.com/RozForCode/ChatBot_LangChain"} ,
+    {LLMs:"https://github.com/RozForCode/ChatBot_LangChain"},
     {Data Science: "https://github.com/RozForCode/ETL-Pipeline-Python"}
   ],
   focus: "App Development and Game Engineering skills, Linux, 3D Web Dev",
   Deployed Projects: [
-    { Play TakeOver: "https://unity-games-embedded.vercel.app/" }
+    {Play TakeOver: "https://unity-games-embedded.vercel.app/" }
   ],
   collaboration: "Feel free to reach out if you have an idea",
   portfolio: "https://navrose.co/",
-  contact: "Reach via Socials section or email navrosesinghjohal@gmail.com",
+  contact: " Socials section or email navrosesinghjohal@gmail.com",
   hobbies: [
-    "Sketching",
-    "solving Minesweeper puzzles", 
-    "DSA problems", 
-    "Clash of Clans (Townhall 16 max)"
+    " Sketching",
+    " Minesweeper puzzles", 
+    " DSA problems", 
+    " Clash of Clans (Townhall 16 max)"
   ]
 };
 ```
