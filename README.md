@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Navrose</h1>
+<h1 align="center">Hi, I'm Navrose S. Johal</h1>
 <hr>
 
 <img align="right"  width="350" height="400" src="https://github.com/user-attachments/assets/b3cfd8ae-5ba7-4f52-9134-1429e600c0a8" frameBorder="0" >
